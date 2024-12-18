@@ -7,7 +7,6 @@ Web Developer (trying to become a Full Stack Dev)
 Code & Coffee
 
 * 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [GitHub](http://github.com/TheWicketTK)
 * ✉️  You can contact me at [thewickettk@gmail.com](mailto:thewickettk@gmail.com)
 * 🚀  I'm currently working on [Competification](https://squad.competification.com/)
 * 🧠  I'm learning GoLang
