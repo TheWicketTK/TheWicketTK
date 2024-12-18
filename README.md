@@ -1,7 +1,7 @@
 Hi 👋 My name is Wicket
 ============================
 
-Full Stack Developer
+Web Developer (trying to become a Full Stack Dev)
 --------------------
 
 Code & Coffee
