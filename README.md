@@ -1,4 +1,4 @@
-Hi 👋 My name is TheWicketTK
+Hi 👋 My name is Wicket
 ============================
 
 Full Stack Developer
